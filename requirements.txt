@@ -1,0 +1,14 @@
+torch>=2.0
+torch-geometric>=2.3
+torch-scatter
+torch-cluster
+rdkit>=2023.3
+numpy>=1.24
+pandas>=1.5
+scikit-learn>=1.2
+scipy>=1.10
+matplotlib>=3.7
+biopython>=1.81
+biotite>=0.39
+transformers>=4.30
+tqdm>=4.65
